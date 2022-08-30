@@ -1,4 +1,4 @@
-uname Print certain system information. With no OPTION, same as -s.
+uname Print certain system information. With no OPTION in Linux, same as -s.
 -a, --all
 print all information, in the following order, except omit -p and -i if unknown:
 -s, --kernel-name
